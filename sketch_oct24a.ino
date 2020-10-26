@@ -23,8 +23,8 @@
 // Declaração de variáveis ==========================================================================
 
 const int pin = 2;
-const char* ssid = "ACESSO (MSilva) 9987.8680";        // nome da rede WiFi que será conectado
-const char* password =  "s17071997";                   // Senha da rede Wifi
+const char* ssid = " ************* ";                  // nome da rede WiFi que será conectado
+const char* password =  "**********";                  // Senha da rede Wifi
 const char* mqttServer = "broker.mqtt-dashboard.com";  // Nome para o servidor Broker
 const int mqttPort = 1883;                             // porta
 const char* mqttUser = "abcdefg";                      // Usuário do cliente
